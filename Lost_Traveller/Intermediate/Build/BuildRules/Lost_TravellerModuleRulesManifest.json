@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\btwil\\OneDrive\\Documents\\CI541-Game-Development-Frameworks\\Lost_Traveller\\Source\\Lost_Traveller\\Lost_Traveller.Build.cs",
+		"C:\\Users\\btwil\\OneDrive\\Documents\\CI541-Game-Development-Frameworks\\Lost_Traveller\\Source\\Lost_Traveller.Target.cs",
+		"C:\\Users\\btwil\\OneDrive\\Documents\\CI541-Game-Development-Frameworks\\Lost_Traveller\\Source\\Lost_TravellerEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
